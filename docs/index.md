@@ -4,6 +4,10 @@
 
 ### 知識
 
+#### C++
+
+- [STL containerの継承と非公開継承](contents/089C3BAB-039D-462E-B0B1-BABF5E15AB8F.md)
+
 #### C++/Lisp
 
 - [多重定義とtemplateによる多態性の活用](contents/AC935E3D-52EA-4B38-9081-399C6CEF1F6F.md)
