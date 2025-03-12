@@ -12,6 +12,7 @@
 #### C++
 
 - [STL containerの継承と非公開継承](contents/089C3BAB-039D-462E-B0B1-BABF5E15AB8F.md)
+- [扱いが楽になる列挙型の書き方](contents/2BA36E50-FC3C-4AE0-B647-3F1661EC317D.md)
 
 #### C++/Lisp
 
